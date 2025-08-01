@@ -12,7 +12,7 @@ This project documents an in-depth analysis of Splunk security logs as part of a
 
 ## 📁 Files Included
 - `incident_response_report.md`: Detailed summary of findings and proposed actions  
-- `splunk_queries.txt`: Sample SPL queries used during analysis  
+- `FUTURE_CS_02`: Sample SPL queries used during analysis  
 - `README.md`: Project documentation (you’re reading it!)
 
 ## 🧠 Personal Takeaway
